@@ -1,0 +1,39 @@
+
+
+/************** Tag Selectors*******************/
+h1{
+  color: red;
+}
+
+
+
+
+
+body{
+  background-color: orange;
+}
+
+
+
+/************** Ckass Selectors*******************/
+
+.meat1{
+background-color: green;
+width: 200px;
+}
+.meat2{
+background-color: red;
+width: 100px;
+}
+
+
+img{
+  background-color: blue;
+  width: 300px;
+}
+
+/************** Ckass Selectors*******************/
+
+#heading{
+  color:blue;
+}
