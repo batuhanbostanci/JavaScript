@@ -1,0 +1,36 @@
+
+h1{
+  color: red;
+}
+
+
+img:hover{
+  background-color: gold;
+}
+
+
+
+/*########### Class selectors #######################*/
+
+.bacon{
+  background-color: red;
+}
+.brokoli{
+  background-color: blue;
+}
+
+.circular{
+  border-radius: 100%;
+}
+/*########### ID selectors #######################*/
+
+#heading{
+  color: blue;
+}
+
+
+
+/*
+-ID selector is more spesific than class selector.
+-You can't use more than 1 id but in classes you can use more than 1.
+*/
